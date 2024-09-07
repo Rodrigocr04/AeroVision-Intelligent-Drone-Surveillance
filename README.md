@@ -1,0 +1,1 @@
+El reto consistió en proponer una solución al problema de patrullaje coordinado, mediante un enfoque que use un dron coordinado como patrulla principal al simular de manera gráfica un sitio de riesgo (un sitio de construcción, plantíos, fárbicas al aire libre, macro-bodegas, etc.), representando la salida de un sistema multiagentes.
