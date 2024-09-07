@@ -1,0 +1,2 @@
+SinAssets.zip filter=lfs diff=lfs merge=lfs -text
+SoloAssets.zip filter=lfs diff=lfs merge=lfs -text
